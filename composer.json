@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-tree-all-levels",
+    "description": "Front-end-plugin som returnerar ett komplett sidträd",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
